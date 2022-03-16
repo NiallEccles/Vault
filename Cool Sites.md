@@ -97,4 +97,9 @@
 ### Map
 - [Longest Road Out](https://longestroadout.com/explore-map/)
 
+### Shadows
 
+- [Box Shadow](https://box-shadow.dev/)
+- [Brumm](https://shadows.brumm.af/)
+- [Neumorphism](https://neumorphism.io/#e0e0e0)
+- [Shadow Palette](https://www.joshwcomeau.com/shadow-palette/)

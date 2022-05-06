@@ -6,6 +6,7 @@
 - [React + D3.js](https://wattenberger.com/blog/react-and-d3)
 - [Headless UI](https://headlessui.dev/)
 - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/examples)
+- [Loaders](https://uiball.com/loaders)
 
 #### Dev
 - [Frontend Mentor](https://www.frontendmentor.io/challenges)

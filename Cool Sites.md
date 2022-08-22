@@ -41,6 +41,12 @@
 - [Hercaclos Game](https://heraclosgame.com/)
 - [Renault](https://www.experience-nouvelletwingo.renault.fr/)
 
+#### 3D Assets
+- [Kenney](kenney.nl)
+- [https://kaylousberg.com/game-assets](kaylousberg)
+- [Quaternius](https://quaternius.com/)
+
+
 #### Design Inspiration
 - [Evernote Design](https://www.evernote.design/)
 - [Mobbin Design](https://mobbin.design/browse/ios/apps)

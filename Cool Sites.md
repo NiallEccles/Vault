@@ -114,3 +114,6 @@
 
 ### Accessibility
 -[https://bionic-reading.com/](https://bionic-reading.com/)
+
+### Fonts
+[https://fontesk.com/bubasaur-font/](https://fontesk.com/bubasaur-font/)

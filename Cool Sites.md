@@ -112,6 +112,10 @@
 - [Neumorphism](https://neumorphism.io/#e0e0e0)
 - [Shadow Palette](https://www.joshwcomeau.com/shadow-palette/)
 
+### Illustrations
+- [Ouch](https://icons8.com/illustrations)
+
+
 ### Accessibility
 -[https://bionic-reading.com/](https://bionic-reading.com/)
 

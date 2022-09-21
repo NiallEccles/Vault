@@ -102,6 +102,7 @@
 - [Wokine](https://www.wokine.com/)
 - [Nev](https://nevflynn.com/)
 - [https://www.helloivy.co/](https://www.helloivy.co/)
+- [https://current.so/](https://current.so/)
 
 ### Map
 - [Longest Road Out](https://longestroadout.com/explore-map/)

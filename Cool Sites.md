@@ -103,6 +103,7 @@
 - [Nev](https://nevflynn.com/)
 - [https://www.helloivy.co/](https://www.helloivy.co/)
 - [https://current.so/](https://current.so/)
+- [https://set.studio/](https://set.studio/)
 
 ### Map
 - [Longest Road Out](https://longestroadout.com/explore-map/)

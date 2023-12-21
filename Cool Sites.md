@@ -124,6 +124,7 @@
 ### Accessibility
 - [https://bionic-reading.com/](https://bionic-reading.com/)
 - [https://randoma11y.com/](https://randoma11y.com/)
+- (https://component.gallery/)[component.gallery]
 
 ### Fonts
 [https://fontesk.com/bubasaur-font/](https://fontesk.com/bubasaur-font/)

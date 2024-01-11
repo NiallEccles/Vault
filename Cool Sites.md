@@ -124,8 +124,8 @@
 ### Accessibility
 - [https://bionic-reading.com/](https://bionic-reading.com/)
 - [https://randoma11y.com/](https://randoma11y.com/)
-- (https://component.gallery/)[component.gallery]
-- (https://www.apple.com/accessibility/)[apple.com/accessibility/]
+- [component.gallery](https://component.gallery/)
+- [apple.com/accessibility/](https://www.apple.com/accessibility/)
 
 ### Fonts
 [https://fontesk.com/bubasaur-font/](https://fontesk.com/bubasaur-font/)

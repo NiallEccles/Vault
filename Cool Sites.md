@@ -134,3 +134,8 @@
 [https://www.fontshare.com/](https://www.fontshare.com/)
 [https://uncut.wtf/](https://uncut.wtf/)
 [https://www.freefaces.gallery/](https://www.freefaces.gallery/)
+
+### Portfolio Inspiration
+[https://www.dejan.works/](https://www.dejan.works/)
+[https://nevflynn.com/](https://nevflynn.com/)
+[https://zackwebster.com/](https://zackwebster.com/)

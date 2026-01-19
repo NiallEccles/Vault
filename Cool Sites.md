@@ -131,3 +131,6 @@
 
 ### Fonts
 [https://fontesk.com/bubasaur-font/](https://fontesk.com/bubasaur-font/)
+[https://www.fontshare.com/](https://www.fontshare.com/)
+[https://uncut.wtf/](https://uncut.wtf/)
+[https://www.freefaces.gallery/](https://www.freefaces.gallery/)
